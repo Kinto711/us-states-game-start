@@ -53,10 +53,3 @@ while score < 50:
 
 
 screen.exitonclick()
-# dicta = csv.reader(data)
-#
-# states = data["state"]
-#
-#
-#
-# print(dicta)
